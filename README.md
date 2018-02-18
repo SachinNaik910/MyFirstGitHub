@@ -1,2 +1,3 @@
 # MyFirstGitHub
-Project sake
+Project sake to get knowledge
+Thank you
